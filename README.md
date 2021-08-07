@@ -1,6 +1,12 @@
+Using Hooks for changing the state
+Using Material UI
+Applying the concept of array destructuring
+ I am using "line-through" css style so that after clicking the delete button for the particular item it will cut the item but doesn't remove the item from the list.  
+
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
