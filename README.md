@@ -1,7 +1,11 @@
-Using Hooks for changing the state
-Using Material UI
-Applying the concept of array destructuring
- I am using "line-through" css style so that after clicking the delete button for the particular item it will cut the item but doesn't remove the item from the list.  
+Deployment:
+https://pratyushhz.github.io/Reactwebsite/
+
+
+Using React Hooks, array destructuring
+Using the concept of React Router, switch.
+Using bootstrap 5.
+  
 
 
 # Getting Started with Create React App
